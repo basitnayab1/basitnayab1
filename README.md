@@ -1,85 +1,129 @@
-<!-- Futuristic GitHub Profile README for Basit Nayab -->
+<!-- BASIT NAYAB | NEON CYBERPUNK PROFILE -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:050816,45:111B3D,100:5426A8&text=Basit%20Nayab&fontColor=EAF2FF&fontSize=62&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20CHATBOTS%20%7C%20LLMs%20%7C%20AI%20AGENTS&descSize=15&descAlignY=62&animation=twinkling&stroke=4B8DFF" />
+<img src="./assets/basit-nayab-cyberpunk.svg" width="100%" alt="Basit Nayab futuristic neon developer banner"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=75B9FF&center=true&vCenter=true&width=700&lines=Building+intelligent+digital+experiences;Developing+AI-powered+applications;Exploring+LLMs%2C+agents+%26+automation" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=57D7FF&center=true&vCenter=true&width=760&lines=FULL+STACK+DEVELOPER;AI+CHATBOTS+%7C+LLMs+%7C+AI+AGENTS;BUILDING+INTELLIGENT+APPLICATIONS" alt="Animated developer tagline"/>
 
 <p>
-  <img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Development-172554?style=for-the-badge&logo=codeforces&logoColor=93C5FD" />
-  <img src="https://img.shields.io/badge/AI-Chatbots%20%26%20LLMs-312E81?style=for-the-badge&logo=openai&logoColor=C4B5FD" />
-  <img src="https://img.shields.io/badge/BUILDING-AI%20Agents-3B0764?style=for-the-badge&logo=probot&logoColor=E9D5FF" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING%20THE%20FUTURE-061B2C?style=for-the-badge&logo=github&logoColor=4DDCFF"/>
+  <img src="https://img.shields.io/badge/EDUCATION-DATA%20SCIENCE-211044?style=for-the-badge&logo=academia&logoColor=C58BFF"/>
 </p>
 
 </div>
 
 ---
 
-## ◈ About Me
+<table>
+<tr>
+<td width="34%" valign="top">
 
-I'm **Basit Nayab**, a developer focused on building modern web applications and practical AI-powered solutions.
+<h3>◈ SYSTEM PROFILE</h3>
 
-- Full Stack Developer building end-to-end web applications.
-- Creating AI chatbots and LLM-powered experiences.
-- Exploring autonomous AI agents, workflow automation, and intelligent systems.
-- Interested in turning complex ideas into useful products.
+**Basit Nayab**
 
-🎓 **Education:** Data Science
+Full Stack Developer
 
----
+AI Chatbots · LLMs · AI Agents
 
-## ◈ Core Interests
+🎓 Data Science
+
+[GitHub](https://github.com/basitnayab1) · [Repositories](https://github.com/basitnayab1?tab=repositories)
+
+</td>
+<td width="66%" valign="top">
+
+<h3>◈ ABOUT THE DEVELOPER</h3>
+
+I build modern full-stack applications and intelligent AI-powered systems, combining web technologies with LLMs, chatbots, automation, and agent-based workflows.
+
+- Developing end-to-end web applications.
+- Building AI chatbots and LLM-powered tools.
+- Exploring autonomous agents and intelligent automation.
+- Turning practical problems into useful software.
+
+</td>
+</tr>
+</table>
+
+## ◈ CORE SYSTEMS
 
 <div align="center">
 
-| FULL STACK | GENERATIVE AI | INTELLIGENT SYSTEMS |
-|:---:|:---:|:---:|
-| Web Applications | AI Chatbots | AI Agents |
-| Frontend & Backend | LLM Integration | Workflow Automation |
-| APIs & Databases | Prompt Engineering | Agentic Workflows |
+<table>
+<tr>
+<td align="center" width="33%">
+
+### ⌘ FULL STACK
+Frontend · Backend  
+Web Apps · APIs  
+Database Systems
+
+</td>
+<td align="center" width="33%">
+
+### ✧ GENERATIVE AI
+AI Chatbots  
+LLM Integration  
+Prompt Engineering
+
+</td>
+<td align="center" width="33%">
+
+### ⬡ AI AGENTS
+Agentic Workflows  
+Task Automation  
+Intelligent Systems
+
+</td>
+</tr>
+</table>
 
 </div>
 
-## ◈ Tech Stack
+## ◈ TECHNOLOGY MATRIX
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,html,css,tailwind,supabase,postgres,git,github,docker&theme=dark&perline=7" />
 
+<br/>
+
+<img src="https://img.shields.io/badge/AI%20%26%20LLMs-OpenAI%20%7C%20Gemini%20%7C%20Ollama-101A35?style=flat-square&logo=openai&logoColor=9BDFFF"/>
+<img src="https://img.shields.io/badge/Automation-n8n-101A35?style=flat-square&logo=n8n&logoColor=FF6D5A"/>
+
 </div>
 
-## ◈ Featured Projects
+## ◈ DEPLOYED PROJECTS
 
 <div align="center">
 
 <a href="https://github.com/basitnayab1/AI-VIdeo-editor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=basitnayab1&repo=AI-VIdeo-editor&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=basitnayab1&repo=AI-VIdeo-editor&theme=tokyonight&hide_border=true&bg_color=050B18&title_color=55D7FF&icon_color=A77BFF" />
 </a>
 <a href="https://github.com/basitnayab1/ai-recruitment-portal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=basitnayab1&repo=ai-recruitment-portal&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=basitnayab1&repo=ai-recruitment-portal&theme=tokyonight&hide_border=true&bg_color=050B18&title_color=55D7FF&icon_color=A77BFF" />
 </a>
 <a href="https://github.com/basitnayab1/TechnoAI-Task-Hub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=basitnayab1&repo=TechnoAI-Task-Hub&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=basitnayab1&repo=TechnoAI-Task-Hub&theme=tokyonight&hide_border=true&bg_color=050B18&title_color=55D7FF&icon_color=A77BFF" />
 </a>
 <a href="https://github.com/basitnayab1/Order-Sentinel">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=basitnayab1&repo=Order-Sentinel&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=basitnayab1&repo=Order-Sentinel&theme=tokyonight&hide_border=true&bg_color=050B18&title_color=55D7FF&icon_color=A77BFF" />
 </a>
 
 </div>
 
-## ◈ GitHub Analytics
+## ◈ GITHUB TELEMETRY
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=basitnayab1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=75B9FF&icon_color=A78BFA&text_color=DCE7FF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basitnayab1&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=75B9FF&text_color=DCE7FF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=basitnayab1&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=050B18&title_color=55D7FF&icon_color=A77BFF&text_color=DCE7FF" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basitnayab1&layout=compact&theme=tokyonight&hide_border=true&bg_color=050B18&title_color=55D7FF&text_color=DCE7FF" />
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=basitnayab1&theme=tokyonight&hide_border=true&background=050816&ring=75B9FF&fire=A78BFA&currStreakLabel=75B9FF" />
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=basitnayab1&theme=tokyonight&hide_border=true&background=050B18&ring=55D7FF&fire=A77BFF&currStreakLabel=55D7FF" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=basitnayab1&bg_color=050816&color=DCE7FF&line=75B9FF&point=A78BFA&area=true&hide_border=true" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=basitnayab1&bg_color=050B18&color=DCE7FF&line=55D7FF&point=A77BFF&area=true&hide_border=true" />
 
 </div>
 
@@ -87,12 +131,15 @@ I'm **Basit Nayab**, a developer focused on building modern web applications and
 
 <div align="center">
 
-### ◈ LET'S BUILD SOMETHING INTELLIGENT
+### ◈ CODE. AUTOMATE. INNOVATE.
+
+*“Let's build something intelligent.”*  
+**Basit Nayab**
 
 <a href="https://github.com/basitnayab1">
-  <img src="https://img.shields.io/badge/GitHub-Basit%20Nayab-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/CONNECT%20ON-GITHUB-101A35?style=for-the-badge&logo=github&logoColor=55D7FF"/>
 </a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5426A8,50:111B3D,100:050816&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5426A8,50:111B3D,100:050816&height=100&section=footer"/>
 
 </div>
